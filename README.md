@@ -1,1 +1,3 @@
-# Example of changing the README.md
+# This is VITE REACT NATIVE APP
+
+## Just practice nothing out of the ordinary!
